@@ -3319,4 +3319,3 @@ document.getElementById('logoButton').addEventListener('click', resetQuiz);
 
 
 
-
